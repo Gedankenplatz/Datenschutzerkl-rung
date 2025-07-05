@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Datenlöschung – Gedankenplatz</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #f7f7f7; color: #222; }
+    h1 { color: #1a8cff; }
+    .container { max-width: 600px; margin: auto; background: #fff; padding: 2em; border-radius: 12px; box-shadow: 0 2px 10px #0001; }
+    a { color: #1a8cff; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Datenlöschung bei Gedankenplatz</h1>
+    <p>Sie möchten Ihre persönlichen Daten löschen lassen?</p>
+    <h2>So funktioniert’s:</h2>
+    <ul>
+      <li><b>In der App:</b><br>
+      Öffnen Sie die App, gehen Sie zu „Einstellungen“ und wählen Sie „Konto löschen“. Ihre Daten werden damit dauerhaft entfernt.</li>
+      <li><b>Oder per E-Mail:</b><br>
+      Schreiben Sie einfach eine kurze Nachricht an <a href="mailto:gedankenplatz@gmx.de">gedankenplatz@gmx.de</a>.<br>
+      Bitte nennen Sie dabei Ihren Benutzernamen oder die E-Mail-Adresse, mit der Sie sich registriert haben.</li>
+    </ul>
+    <p>Wir löschen alle personenbezogenen Daten <b>spätestens innerhalb von 14 Tagen</b> nach Ihrer Anfrage.</p>
+    <p><i>Hinweis:</i><br>Nach der Löschung können Ihre Daten nicht wiederhergestellt werden.</p>
+  </div>
+</body>
+</html>
